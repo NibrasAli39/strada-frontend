@@ -1,0 +1,45 @@
+.header{
+   flex: 1;
+   
+}
+
+/* .MuiPaper-elevation4{
+    box-shadow: none !important;
+} */
+
+.appBar{
+    box-shadow: none !important;
+    background-color: transparent !important;
+    color: #000 !important;
+}
+
+.inputHolder{
+
+    flex-grow: 1;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.iconHolder{
+
+align-items: center;
+justify-content: center;
+
+}
+
+.logoImage{
+
+    justify-content: center;
+    align-self: center;
+
+}
+
+.navLink{
+
+
+}
+
+.MuiButton-root{
+    text-transform: none !important;
+}

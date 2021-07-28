@@ -1,0 +1,18 @@
+.faqsContainer{
+
+    flex: 1;
+
+}
+
+.grayTitle{
+
+    color: grey !important;
+    font-weight: 100 !important;
+
+}
+
+.linebreak{
+    width: 100vw;
+    border: #D3D3D3 1px solid;
+    height: 1;
+}

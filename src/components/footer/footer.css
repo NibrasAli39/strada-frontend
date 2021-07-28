@@ -1,0 +1,14 @@
+.footer{
+    flex: 1;
+    
+    border-top: #D3D3D3 1px solid;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .imgContainer{
+
+    margin-top: 30px;
+
+ }
+ 
